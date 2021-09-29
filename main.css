@@ -67,3 +67,18 @@ body {
 .content-img {
     width: 80%;
 }
+
+.mapa h3{
+    opacity: 0;
+    text-align: center;
+    color:#E32536
+}
+
+.mapa:hover h3 {
+    opacity: 100%;
+}
+
+.img-map {
+    width: 580px;
+    height: 435px;
+}
